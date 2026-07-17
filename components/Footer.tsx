@@ -54,7 +54,7 @@ export default function Footer() {
             >
               B
             </span>
-            built by bysemaj.com
+            built bysemaj.com
           </a>
         </div>
       </div>
